@@ -1,4 +1,4 @@
-## End to END ML PROJECT
+## End to END ML PROJECT student performance prediction
 
 
 run the application:
